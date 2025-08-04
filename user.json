@@ -1,8 +1,8 @@
 {
   "admin": [
     {
-      "username": "testuser",
-      "password": "$2y$10$8SG9VFt9Y5TCmM7OgQXtYOGT4eCy3cQDHH7A67g12dxC06m90X2WC",
+      "username": "Param",
+      "password": "$2a$12$nqhiebmGDlJ0FJsJf4Ia7.xVyfzOJa20L.vjyEn7AZSqZ1eNzNyc2",
       "device_id": "",
       "subscription": "aimkillapk",
       "expiry": "2025-12-31"
